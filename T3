@@ -9,8 +9,7 @@
         "level": "fatal",
         "timestamp": true
     },
-    "experimental": 
-        "clash_api": {
+{
     "dns": {
         "servers": [
             {
